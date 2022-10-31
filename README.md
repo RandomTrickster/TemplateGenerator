@@ -1,2 +1,2 @@
 # TemplateGenerator
-A simple template generator written in C.
+A simple template generator written in Nim.
