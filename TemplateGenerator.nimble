@@ -5,6 +5,7 @@ author        = "RandomTrickster"
 description   = "A simple template generator written in Nim."
 license       = "MIT"
 srcDir        = "src"
+binDir        = "bin"
 bin           = @["TemplateGenerator"]
 
 
